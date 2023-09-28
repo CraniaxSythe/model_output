@@ -1,0 +1,4 @@
+no-defect
+low-defect
+excess-defect
+heavy-defect
